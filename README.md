@@ -1,3 +1,4 @@
+[![Bandit Scan](https://github.com/seanmceligot/bottlepy-demo/actions/workflows/bandit.yml/badge.svg)](https://github.com/seanmceligot/bottlepy-demo/actions/workflows/bandit.yml)
 
 ```console
 $ make setup
